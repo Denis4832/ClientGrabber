@@ -1,0 +1,9 @@
+# Replace this placeholder with your Minecraft server host or IP.
+listen_host=127.0.0.1
+listen_port=25565
+backend_host=server.example.invalid
+backend_port=25565
+
+# Optional virtual-host override; defaults to backend_host/backend_port.
+# upstream_host=server.example.invalid
+# upstream_port=25565

@@ -1,0 +1,9 @@
+* text=auto
+*.java text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.properties.example text eol=lf
+*.jar binary
+*.zip binary
